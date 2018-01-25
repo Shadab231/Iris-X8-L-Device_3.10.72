@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_IrisX8.mk
+    $(LOCAL_DIR)/aoscp_IrisX8.mk
