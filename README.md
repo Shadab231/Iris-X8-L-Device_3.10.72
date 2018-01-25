@@ -1,4 +1,4 @@
-![AOSP](https://www1-lw.xda-cdn.com/files/2012/10/AOSP.jpg)
+![AOSCP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw2CdARcSM7EoolY4HYqHPG8mw8yFL8xH4-MrxV1NnptPMLWFIa0e_t306Yw)
 # 7.1.2 Iris X8 L
 
 Basic   | Spec Sheet
@@ -28,6 +28,6 @@ git clone https://github.com/Manish4586/Iris-X8-L-Vendor_3.10.72.git vendor/Lava
 
 source build/envsetup.sh
 
-breakfast IrisX8
+IrisX8
 
 ![Lava Iris X8](http://www.lavamobiles.com/lavastorecms/material/product/lava-smartphone-iris-x8-375x700-04022015.jpg)
