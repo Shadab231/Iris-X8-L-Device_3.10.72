@@ -18,7 +18,7 @@ Display | 5" 1280 x 720 px
 
 # Command To Build :-
 
-repo init -u git://github.com/Manish4586/aosp_Ext_Manifest.git -b 7.x
+repo init -u git://github.com/Manish4586/aoscp_manifest.git -b nougat-mr2
 
 repo sync
 
