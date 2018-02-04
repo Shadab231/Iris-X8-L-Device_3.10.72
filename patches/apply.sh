@@ -4,7 +4,7 @@
  cd packages/apps/Settings
  patch -p1 -b < ../../../device/Lava/IrisX8/patches/dev_info.patch
  git clean -f -d
- cd ../..
+ cd ../../..
  cd system/core
  patch -p1 < ../../device/Lava/IrisX8/patches/system_core.patch
  cd ../..
