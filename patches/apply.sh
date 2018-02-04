@@ -24,7 +24,7 @@
  patch -p1 < ../../device/Lava/IrisX8/patches/frameworks_base.patch
  cd ..
  cd rs
- patch -p1 < ../../device/Lava/IrisX8/patches/frameworks_rs.patch
+ patch -p1 < ../../device/Lava/IrisX8/patches/rs.patch
  cd ..
  cd native
  patch -p1 < ../../device/Lava/IrisX8/patches/frameworks_native.patch
