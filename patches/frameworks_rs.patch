@@ -12,7 +12,7 @@ diff --git a/rsGrallocConsumer.cpp b/rsGrallocConsumer.cpp
 index f19f171..20ec2d2 100644
 --- a/rsGrallocConsumer.cpp
 +++ b/rsGrallocConsumer.cpp
-@@ -70,7 +70,7 @@ status_t GrallocConsumer::lockNextBuffer() {
+@@ -59,13 +59,6 @@ status_t GrallocConsumer::lockNextBuffer() {
          }
      }
  
