@@ -39,5 +39,5 @@
  patch -p1 < ../../device/Lava/IrisX8/patches/external_wpa_supplicant_8.patch
  cd ../..
  echo Cleaning For Building
- echo PATCHED (^_^) brunch IrisX8 
+ echo PATCHED brunch IrisX8 
  by Manish_4586!
