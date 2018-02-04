@@ -45,7 +45,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/audio_policy.conf:system/etc/audio_policy.conf
     
 # Bluetooth
-PRODUCT_PACKAGES += libbt-vendor
+PRODUCT_PACKAGES += \
+    libbt-vendor
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.telephony.ril_class=MediaTekRIL
